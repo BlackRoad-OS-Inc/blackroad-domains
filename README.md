@@ -1,3 +1,11 @@
+# blackroad-domains
+
+> BlackRoad Domains — DNS infrastructure for 48+ custom domains across Cloudflare. Tunnel routing, SSL management, and domain-to-service mapping documentation.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # BlackRoad Domains - Complete Infrastructure Documentation
 
 **Owner:** Alexa Louise Amundson
